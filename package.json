@@ -34,6 +34,6 @@
   },
   "devDependencies": {
     "react-scripts": "^5.0.1",
-    "@babel/plugin-proposal-private-property-in-object": "x"
+    "@babel/plugin-transform-private-property-in-object": "x"
   }
 }
